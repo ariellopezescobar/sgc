@@ -217,3 +217,4 @@ C:\Users\lizeth\Desktop\sgc\sgc\sgc.Android\obj\Debug\81\stamp\_ResolveLibraryPr
 C:\Users\lizeth\Desktop\sgc\sgc\sgc.Android\obj\Debug\81\android\assets\machine.config
 C:\Users\lizeth\Desktop\sgc\sgc\sgc.Android\obj\Debug\81\stamp\_CompileToDalvik.stamp
 C:\Users\lizeth\Desktop\sgc\sgc\sgc.Android\obj\Debug\81\stamp\_GeneratePackageManagerJava.stamp
+C:\Users\lizeth\Desktop\sgc\sgc\sgc.Android\obj\Debug\81\android\assets\System.Runtime.dll
