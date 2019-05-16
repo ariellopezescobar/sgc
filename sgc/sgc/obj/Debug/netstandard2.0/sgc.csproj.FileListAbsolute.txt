@@ -1,0 +1,12 @@
+C:\Users\lizeth\Desktop\sgc\sgc\sgc\bin\Debug\netstandard2.0\sgc.deps.json
+C:\Users\lizeth\Desktop\sgc\sgc\sgc\bin\Debug\netstandard2.0\sgc.dll
+C:\Users\lizeth\Desktop\sgc\sgc\sgc\bin\Debug\netstandard2.0\sgc.pdb
+C:\Users\lizeth\Desktop\sgc\sgc\sgc\obj\Debug\netstandard2.0\sgc.csprojAssemblyReference.cache
+C:\Users\lizeth\Desktop\sgc\sgc\sgc\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\lizeth\Desktop\sgc\sgc\sgc\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\lizeth\Desktop\sgc\sgc\sgc\obj\Debug\netstandard2.0\sgc.csproj.CoreCompileInputs.cache
+C:\Users\lizeth\Desktop\sgc\sgc\sgc\obj\Debug\netstandard2.0\sgc.AssemblyInfoInputs.cache
+C:\Users\lizeth\Desktop\sgc\sgc\sgc\obj\Debug\netstandard2.0\sgc.AssemblyInfo.cs
+C:\Users\lizeth\Desktop\sgc\sgc\sgc\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\lizeth\Desktop\sgc\sgc\sgc\obj\Debug\netstandard2.0\sgc.dll
+C:\Users\lizeth\Desktop\sgc\sgc\sgc\obj\Debug\netstandard2.0\sgc.pdb
